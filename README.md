@@ -42,3 +42,6 @@ New York
 Cairo
 Beijing
 Mexico City
+SHanghai
+Tokyo
+Scranton
